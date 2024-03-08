@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java & Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
+- 🗣️🇰🇷🇫🇷🇬🇧
 
 <!---
 SejinPrk/SejinPrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
