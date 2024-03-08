@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SejinPrk
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
 
