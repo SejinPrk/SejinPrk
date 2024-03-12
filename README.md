@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java & Spring Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
-- 📍 Seoul / Lille
+- 📍 Séoul / Lille
 - 🗣️🇰🇷🇫🇷🇬🇧
 
 <!---
