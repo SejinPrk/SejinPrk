@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SejinPrk.
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Java & Spring Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
