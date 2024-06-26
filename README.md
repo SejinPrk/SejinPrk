@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SejinPrk&layout=donut&theme=radical)
 ![SejinPrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejinPrk&show_icons=true&theme=date_night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SejinPrk&layout=donut&theme=radical)
 
 ---
 <!---
