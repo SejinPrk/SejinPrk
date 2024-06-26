@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
+---
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SejinPrk&layout=donut-vertical&theme=radical)
+![SejinPrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejinPrk&show_icons=true&theme=date_night)
+
+---
 <!---
 SejinPrk/SejinPrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,8 +24,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SejinPrk&layout=donut-vertical&theme=radical)
-![SejinPrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SejinPrk&show_icons=true&theme=date_night)
 
