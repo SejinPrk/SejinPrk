@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <bestsaejin12@gmail.com>
----
 <div align="center">
   <!-- quotes-->
 <!--     <a href="https://github.com/SejinPrk"><img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha" alt="Readme Quotes" /></a> -->
