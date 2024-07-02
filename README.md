@@ -8,7 +8,7 @@
 <!--     <a href="https://github.com/SejinPrk"><img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha" alt="Readme Quotes" /></a> -->
 
   <!-- Hi there -->
-  <a href="https://github.com/SejinPrk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://github.com/SejinPrk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;cou+cou+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
   <!-- hit, boj, blog badge -->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSejinPrk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
