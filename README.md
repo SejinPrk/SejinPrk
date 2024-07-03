@@ -1,4 +1,5 @@
-# SejinPrk's Github - <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://my-github-tracker.vercel.app/tea"/> cups.
+# SejinPrk's Github -![Teacup Without Handle](https://github.com/SejinPrk/SejinPrk/assets/150787016/bf496dd1-28e4-4a5c-beeb-c09d43ebf9e1)
+ <img src="https://my-github-tracker.vercel.app/tea"/> cups.
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
 
 - 👋 Hi, I’m @SejinPrk. 
