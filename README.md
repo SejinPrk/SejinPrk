@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @SejinPrk. 
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning REACT.
-- 💞️ I’m looking to collaborate on ...
-- ![Teacup Without Handle](https://github.com/SejinPrk/SejinPrk/assets/150787016/bf496dd1-28e4-4a5c-beeb-c09d43ebf9e1) I love teas.
+- 💞️ ![Teacup Without Handle](https://github.com/SejinPrk/SejinPrk/assets/150787016/bf496dd1-28e4-4a5c-beeb-c09d43ebf9e1)
 - 📫 How to reach me <bestsaejin12@gmail.com>
 <div align="center">
   <!-- quotes-->
