@@ -1,11 +1,10 @@
-# SejinPrk's Github -![Teacup Without Handle](https://github.com/SejinPrk/SejinPrk/assets/150787016/bf496dd1-28e4-4a5c-beeb-c09d43ebf9e1)
- <img src="https://my-github-tracker.vercel.app/tea"/> cups.
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
+# SejinPrk's Github - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
 
 - 👋 Hi, I’m @SejinPrk. 
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning REACT.
 - 💞️ I’m looking to collaborate on ...
+- ![Teacup Without Handle](https://github.com/SejinPrk/SejinPrk/assets/150787016/bf496dd1-28e4-4a5c-beeb-c09d43ebf9e1) I love teas.
 - 📫 How to reach me <bestsaejin12@gmail.com>
 <div align="center">
   <!-- quotes-->
