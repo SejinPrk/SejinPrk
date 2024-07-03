@@ -1,4 +1,5 @@
-# SejinPrk's Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
+# SejinPrk's Github - <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://my-github-tracker.vercel.app/tea"/> cups.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
 
 - 👋 Hi, I’m @SejinPrk. 
 - 👀 I’m interested in Web development.
