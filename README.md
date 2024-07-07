@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @SejinPrk. 
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning ⚛REACT⚛.
+- 🌱 I’m currently learning ⚛REACT⚛ & ⌨TypeScript⌨.
 - 📫 How to reach me <bestsaejin12@gmail.com>
 <div align="center">
   <!-- quotes-->
