@@ -11,10 +11,6 @@
   <!-- Hi there -->
   <a href="https://github.com/SejinPrk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%F0%9F%91%8B;cou+cou+%F0%9F%91%8B" alt="Typing SVG" /></a>
   
-  <a href="https://SejinPrk.github.io/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" alt="Blog" />
-  </a>
-
  <!-- pet -->
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/SejinPrk" width="400" height="200"/>
