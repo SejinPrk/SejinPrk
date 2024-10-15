@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @SejinPrk. 
 - 👀 I’m interested in Web & AI development.
-- 🌱 I’m currently learning Vue.js & LLMOps.
+- 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me <bestsaejin12@gmail.com>
 <div align="center">
   <!-- quotes-->
